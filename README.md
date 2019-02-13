@@ -1,4 +1,5 @@
 # Welcome to join our team!
 <br>
-[Leetcode problems](https://leetcode.com/problemset/all)
 
+The first step: 150 3times, [Leetcode problems Link]
+[Leetcode problems Link]: https://leetcode.com/problemset/all
